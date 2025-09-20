@@ -17,4 +17,6 @@ python版本要求：3.11\
 <img width="1019" height="476" alt="image" src="https://github.com/user-attachments/assets/f2c6fc86-b7e7-4454-a1a2-51f03f292d4f" />
 <img width="985" height="745" alt="image" src="https://github.com/user-attachments/assets/ac6ff2fc-2bb3-49ca-b231-8eb1983c1149" />
 <img width="960" height="462" alt="image" src="https://github.com/user-attachments/assets/760f518a-d7c9-4cfc-896b-38bf610cb43d" />
-怎么用，自行查看理解代码，不po出教程文件,反伸手党\
+\
+\
+怎么用:不po出教程文件,自行测试理解验证
